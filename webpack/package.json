@@ -1,0 +1,16 @@
+{
+  "name": "@mf/webpack-type",
+  "version": "1.0.0",
+  "description": "",
+  "types": "./types.d.ts",
+  "type": "commonjs",
+  "exports": {
+    ".": "./types.d.ts"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
