@@ -7,7 +7,7 @@
   "depDependencies": {
     "@mf/webpack-type": "workspace:*"
   },
-"peerDependencies": {
+  "peerDependencies": {
     "webpack": "^5.40.0"
   },
   "type": "commonjs",
